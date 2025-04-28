@@ -2,8 +2,8 @@
 
 # Inicie o servidor web com o comando: python -m http.server 8888
 
-# Imports
-# pip install openpyxl
+#Imports
+#pip install openpyxl
 import os
 import time
 import sqlite3
